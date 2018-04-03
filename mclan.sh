@@ -1,9 +1,5 @@
 #! /bin/bash
 
-MOTD="Cina MC szerver"
-PORT="25565"
-
-
 MESSAGE="[MOTD]$MOTD[/MOTD][AD]$PORT[/AD]"
 echo "Broadcasting on LAN, press Ctrl+C to exit."
 
